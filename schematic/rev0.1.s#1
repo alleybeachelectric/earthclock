@@ -18856,6 +18856,7 @@ Stepper motor to use?</text>
 <segment>
 <pinref part="U$1" gate="G$1" pin="PF7(ADC7(TDI)"/>
 <wire x1="137.16" y1="152.4" x2="149.86" y2="152.4" width="0.1524" layer="91"/>
+<label x="139.7" y="152.4" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$5" class="0">
